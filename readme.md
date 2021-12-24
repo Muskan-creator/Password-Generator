@@ -1,13 +1,6 @@
-# 03-Password-Generator
-## UWA Full Stack Flex Bootcamp - Feb 2021 by Jacob Hegan
 
-[GitHub Repository](https://github.com/heganjr/03-PasswordGenerator-JH)
+#Password Generator
 
-[Deployed URL](https://heganjr.github.io/03-PasswordGenerator-JH/)
-
-_____________
-
-## The Task
 To create a password generator with a series of criteria where an arrary of characters at random will generate. This generator must meet the criteria based on what the user selects after "Generate Password" has been clicked. This criteria must be:
 
 - The password is between 8 and 128 characters.
@@ -33,9 +26,6 @@ Due to the nature of probability selecting a smaller character length can lead t
 
 _______
 
-## Screenshots
-
-![default-max](./images/default-max.PNG)
 
 ![default-min](./images/default-min.PNG)
 
