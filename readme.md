@@ -1,5 +1,5 @@
 
-#Password Generator
+<h1>Password Generator</h1>
 
 To create a password generator with a series of criteria where an arrary of characters at random will generate. This generator must meet the criteria based on what the user selects after "Generate Password" has been clicked. This criteria must be:
 
@@ -39,4 +39,4 @@ _______
 
 ![Prompt-5](./images/prompt-5.PNG)
 
-![image-password](./images/imagepassword.PNG)
+
