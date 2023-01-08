@@ -1,5 +1,9 @@
 
 <h1>Password Generator</h1>
+##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+> ### **Live deployed website link** :-[Netlify link](https://elegant-flan-33cd53.netlify.app/)
 
 To create a password generator with a series of criteria where an arrary of characters at random will generate. This generator must meet the criteria based on what the user selects after "Generate Password" has been clicked. This criteria must be:
 
