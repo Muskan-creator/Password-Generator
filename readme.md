@@ -1,8 +1,6 @@
 
 <h1>Password Generator</h1>
-##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
+## Created by `Muskan` 
 > ### **Live deployed website link** :-[Netlify link](https://elegant-flan-33cd53.netlify.app/)
 
 To create a password generator with a series of criteria where an arrary of characters at random will generate. This generator must meet the criteria based on what the user selects after "Generate Password" has been clicked. This criteria must be:
@@ -24,23 +22,11 @@ The user will confirm with a confirm box, "Ok" or "Cancel", whether the password
 - Numeric characters, and;
 - Special characters.
 
-Please note that ASCII decimal values have been used to generate the character arrays for the password generator ([ASCII Table](http://www.asciitable.com/)). From this a function has been created allowing the script to generate a low to high arrary then convert that array to characters with use of the String.fromCharCode method.
+Please note that ASCII decimal values have been used to generate the character arrays for the password generator ([ASCII Table](http://www.asciitable.com/)).
+From this a function has been created allowing the script to generate a low to high arrary then convert that array to characters with use of the String.fromCharCode method.
 
 Due to the nature of probability selecting a smaller character length can lead to the one or more password criteria not showing in the in the Password Result
 
-_______
 
-
-![default-min](./images/default-min.PNG)
-
-![Prompt-1](./images/prompt-1.PNG)
-
-![Prompt-2](./images/prompt-2.PNG)
-
-![Prompt-3](./images/prompt-3.PNG)
-
-![Prompt-4](./images/prompt-4.PNG)
-
-![Prompt-5](./images/prompt-5.PNG)
 
 
