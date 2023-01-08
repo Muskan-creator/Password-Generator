@@ -1,7 +1,9 @@
 
 <h1>Password Generator</h1>
 ## Created by `Muskan` 
+
 > ### **Live deployed website link** :-[Netlify link](https://elegant-flan-33cd53.netlify.app/)
+
 
 To create a password generator with a series of criteria where an arrary of characters at random will generate. This generator must meet the criteria based on what the user selects after "Generate Password" has been clicked. This criteria must be:
 
@@ -28,5 +30,13 @@ From this a function has been created allowing the script to generate a low to h
 Due to the nature of probability selecting a smaller character length can lead to the one or more password criteria not showing in the in the Password Result
 
 
+## This project took around 4 hours to complete .
 
+## Connect with me on :-
+<a href="https://twitter.com/Muskan11548907?s=08" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-bansal-095601189/" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
+  </a>
 
